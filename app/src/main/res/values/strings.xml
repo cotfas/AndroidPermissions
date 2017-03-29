@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Permissions</string>
+
+
+    <!--FOR TESTING PURPOSES-->
+    <string name="textWriteStoragePermissionNeeded">Write storage permission is needed in order to export app settings</string>
+    <string name="textAllPermissionNeeded">Read SMS and Contacts are needed in order to use this functionallity</string>
+    <!--FOR TESTING PURPOSES-->
+
+    <string name="textPermissionRationaleButton">SETTINGS</string>
+    <string name="textContinue">Continue</string>
+
+</resources>
