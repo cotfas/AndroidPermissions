@@ -26,13 +26,13 @@ Example for requesting one permission:
             @Override
             public void permissionGranted() {
                 Toast.makeText(MainActivity.this, "Approved", Toast.LENGTH_LONG).show();
-				// Permission passed - add your logic here
+                // Permission passed - add your logic here
             }
 
             @Override
             public void permissionDenied() {
                 Toast.makeText(MainActivity.this, "Denied", Toast.LENGTH_LONG).show();
-				// Permission denied - add your logic here if needed
+                // Permission denied - add your logic here if needed
             }
         }, Manifest.permission.WRITE_EXTERNAL_STORAGE);
     }
@@ -46,13 +46,13 @@ Example for requesting multiple permissions:
             @Override
             public void permissionGranted() {
                 Toast.makeText(MainActivity.this, "Approved", Toast.LENGTH_LONG).show();
-				// Permission passed - add your logic here
+                // Permission passed - add your logic here
             }
 
             @Override
             public void permissionDenied() {
                 Toast.makeText(MainActivity.this, "Denied", Toast.LENGTH_LONG).show();
-			    // Permission denied - add your logic here if needed
+                // Permission denied - add your logic here if needed
             }
         }, Manifest.permission.READ_SMS, Manifest.permission.READ_CONTACTS);
     }
