@@ -1,5 +1,5 @@
-# Permissions
-Android Permission Wrapper Simplified
+# 📲 Android Permission Library
+— 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘥 𝘢 𝘴𝘪𝘮𝘱𝘭𝘪𝘧𝘪𝘦𝘥 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘗𝘦𝘳𝘮𝘪𝘴𝘴𝘪𝘰𝘯 𝘞𝘳𝘢𝘱𝘱𝘦𝘳.
 
 This Wrapper helps you to simplify the whole Android Permission Flow by showing the dialogs and snack-bar (if needed) in order for the user to understand and accept permissions easily. When a single/ or multiple permission is garanted (by the user or already accepted) the proper callback is automatically triggered.
 
